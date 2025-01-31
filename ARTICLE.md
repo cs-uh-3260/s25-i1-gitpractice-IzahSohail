@@ -19,3 +19,7 @@ adaptability is key in the evolving tech landscape.
 ##Proof Reading
 
 Article checked for typos
+
+## Comment By Fahad Bin Fahad ALmheiri:
+
+An interesting article describing how AI is reshaping the job market for software engineers. The skills that employers are looking for has shifted from coding to more high-level skills such as system design.
